@@ -1,0 +1,8 @@
+begin
+d := 5 + 2 * 3
+print(d)
+d := 2 * d + 7
+print(d)
+d := 2 * (d + 7)
+print(d)
+end

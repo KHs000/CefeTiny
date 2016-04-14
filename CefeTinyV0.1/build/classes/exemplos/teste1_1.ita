@@ -1,0 +1,16 @@
+begin
+printstr  ('Digite o valor de x: ')
+println
+printstr  ('Digite o valor de y: ')
+println
+printstr  ('Digite o valor de z: ')
+println
+printstr  ('Digite outro valor de x: ')
+println
+printstr ('Valor de x: ')
+println
+printstr ('Valor de y: ')
+println
+printstr ('Valor de z: ')
+println
+end
